@@ -6,16 +6,6 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		6A749A2A1C6DB74D003E5721 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A749A291C6DB74D003E5721 /* AppDelegate.swift */; };
-		6A749A2C1C6DB74D003E5721 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A749A2B1C6DB74D003E5721 /* ViewController.swift */; };
-		6A749A2F1C6DB74D003E5721 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6A749A2D1C6DB74D003E5721 /* Main.storyboard */; };
-		6A749A311C6DB74D003E5721 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6A749A301C6DB74D003E5721 /* Assets.xcassets */; };
-		6A749A341C6DB74D003E5721 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6A749A321C6DB74D003E5721 /* LaunchScreen.storyboard */; };
-		6A749A3F1C6DB74D003E5721 /* MiniReto_Semana2_100NumerosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A749A3E1C6DB74D003E5721 /* MiniReto_Semana2_100NumerosTests.swift */; };
-		6A749A4A1C6DB74D003E5721 /* MiniReto_Semana2_100NumerosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A749A491C6DB74D003E5721 /* MiniReto_Semana2_100NumerosUITests.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXContainerItemProxy section */
 		6A749A3B1C6DB74D003E5721 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -34,19 +24,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		6A749A261C6DB74D003E5721 /* MiniReto_Semana2_100Numeros.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MiniReto_Semana2_100Numeros.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		6A749A291C6DB74D003E5721 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		6A749A2B1C6DB74D003E5721 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		6A749A2E1C6DB74D003E5721 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		6A749A301C6DB74D003E5721 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		6A749A331C6DB74D003E5721 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		6A749A351C6DB74D003E5721 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		6A749A3A1C6DB74D003E5721 /* MiniReto_Semana2_100NumerosTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MiniReto_Semana2_100NumerosTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		6A749A3E1C6DB74D003E5721 /* MiniReto_Semana2_100NumerosTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiniReto_Semana2_100NumerosTests.swift; sourceTree = "<group>"; };
-		6A749A401C6DB74D003E5721 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		6A749A451C6DB74D003E5721 /* MiniReto_Semana2_100NumerosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MiniReto_Semana2_100NumerosUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		6A749A491C6DB74D003E5721 /* MiniReto_Semana2_100NumerosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiniReto_Semana2_100NumerosUITests.swift; sourceTree = "<group>"; };
-		6A749A4B1C6DB74D003E5721 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6A749A261C6DB74D003E5721 /* MiniReto_Semana2_100Numeros.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = MiniReto_Semana2_100Numeros.app; path = "/Users/Isaias/Documents/Programas/MiniRetoSemana2IsaiasV/MiniReto_Semana2_100Numeros/build/Debug-iphoneos/MiniReto_Semana2_100Numeros.app"; sourceTree = "<absolute>"; };
+		6A749A3A1C6DB74D003E5721 /* MiniReto_Semana2_100NumerosTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = MiniReto_Semana2_100NumerosTests.xctest; path = "/Users/Isaias/Documents/Programas/MiniRetoSemana2IsaiasV/MiniReto_Semana2_100Numeros/build/Debug-iphoneos/MiniReto_Semana2_100NumerosTests.xctest"; sourceTree = "<absolute>"; };
+		6A749A451C6DB74D003E5721 /* MiniReto_Semana2_100NumerosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = MiniReto_Semana2_100NumerosUITests.xctest; path = "/Users/Isaias/Documents/Programas/MiniRetoSemana2IsaiasV/MiniReto_Semana2_100Numeros/build/Debug-iphoneos/MiniReto_Semana2_100NumerosUITests.xctest"; sourceTree = "<absolute>"; };
+		6A749A571C6DBCD3003E5721 /* MiniReto_Semana2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MiniReto_Semana2.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,51 +59,15 @@
 			isa = PBXGroup;
 			children = (
 				6A749A281C6DB74D003E5721 /* MiniReto_Semana2_100Numeros */,
-				6A749A3D1C6DB74D003E5721 /* MiniReto_Semana2_100NumerosTests */,
-				6A749A481C6DB74D003E5721 /* MiniReto_Semana2_100NumerosUITests */,
-				6A749A271C6DB74D003E5721 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		6A749A271C6DB74D003E5721 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				6A749A261C6DB74D003E5721 /* MiniReto_Semana2_100Numeros.app */,
-				6A749A3A1C6DB74D003E5721 /* MiniReto_Semana2_100NumerosTests.xctest */,
-				6A749A451C6DB74D003E5721 /* MiniReto_Semana2_100NumerosUITests.xctest */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		6A749A281C6DB74D003E5721 /* MiniReto_Semana2_100Numeros */ = {
 			isa = PBXGroup;
 			children = (
-				6A749A291C6DB74D003E5721 /* AppDelegate.swift */,
-				6A749A2B1C6DB74D003E5721 /* ViewController.swift */,
-				6A749A2D1C6DB74D003E5721 /* Main.storyboard */,
-				6A749A301C6DB74D003E5721 /* Assets.xcassets */,
-				6A749A321C6DB74D003E5721 /* LaunchScreen.storyboard */,
-				6A749A351C6DB74D003E5721 /* Info.plist */,
+				6A749A571C6DBCD3003E5721 /* MiniReto_Semana2.playground */,
 			);
 			path = MiniReto_Semana2_100Numeros;
-			sourceTree = "<group>";
-		};
-		6A749A3D1C6DB74D003E5721 /* MiniReto_Semana2_100NumerosTests */ = {
-			isa = PBXGroup;
-			children = (
-				6A749A3E1C6DB74D003E5721 /* MiniReto_Semana2_100NumerosTests.swift */,
-				6A749A401C6DB74D003E5721 /* Info.plist */,
-			);
-			path = MiniReto_Semana2_100NumerosTests;
-			sourceTree = "<group>";
-		};
-		6A749A481C6DB74D003E5721 /* MiniReto_Semana2_100NumerosUITests */ = {
-			isa = PBXGroup;
-			children = (
-				6A749A491C6DB74D003E5721 /* MiniReto_Semana2_100NumerosUITests.swift */,
-				6A749A4B1C6DB74D003E5721 /* Info.plist */,
-			);
-			path = MiniReto_Semana2_100NumerosUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -213,7 +158,7 @@
 				Base,
 			);
 			mainGroup = 6A749A1D1C6DB74D003E5721;
-			productRefGroup = 6A749A271C6DB74D003E5721 /* Products */;
+			productRefGroup = 6A749A1D1C6DB74D003E5721;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -229,9 +174,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6A749A341C6DB74D003E5721 /* LaunchScreen.storyboard in Resources */,
-				6A749A311C6DB74D003E5721 /* Assets.xcassets in Resources */,
-				6A749A2F1C6DB74D003E5721 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,8 +198,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6A749A2C1C6DB74D003E5721 /* ViewController.swift in Sources */,
-				6A749A2A1C6DB74D003E5721 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,7 +205,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6A749A3F1C6DB74D003E5721 /* MiniReto_Semana2_100NumerosTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,7 +212,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6A749A4A1C6DB74D003E5721 /* MiniReto_Semana2_100NumerosUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -291,25 +229,6 @@
 			targetProxy = 6A749A461C6DB74D003E5721 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		6A749A2D1C6DB74D003E5721 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				6A749A2E1C6DB74D003E5721 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		6A749A321C6DB74D003E5721 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				6A749A331C6DB74D003E5721 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		6A749A4C1C6DB74D003E5721 /* Debug */ = {
